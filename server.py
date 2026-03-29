@@ -12,4 +12,4 @@ server.logging.basicConfig(
 clpv4 = clpv4(server)
 scratch = scratch(server)
 # Start the server!
-server.run(ip="0.0.0.0", port=3000)
+server.run(ip="0.0.0.0", port=8080)
